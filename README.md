@@ -20,7 +20,7 @@
 </p>
 <h3> 4- Screen Recorder </h3>
 <p align="center">
-  <video width="320" height="500" controls>
+  <video width="320" height="500" autoplay>
   <source src="Screenshots/video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
