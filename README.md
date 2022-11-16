@@ -18,6 +18,13 @@
 <p align="center">
   <img src="Screenshots/3.jpg" width="300" hight=500  title="3- Song screen">
 </p>
+<h3> 4- Screen Recorder </h3>
+<p align="center">
+  <video width="320" height="500" controls>
+  <source src="Screenshots/video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</p>
 
 ## Getting Started
 
