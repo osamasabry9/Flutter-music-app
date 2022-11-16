@@ -21,9 +21,12 @@
 <h3> 4- Screen Recorder </h3>
 <p align="center">
   <video width="320" height="500" autoplay>
-  <source src="Screenshots/video.mp4" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/89175507/202056170-85d635e4-4315-4ee1-8f59-afc3ab22bdc6.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+https://user-images.githubusercontent.com/89175507/202056170-85d635e4-4315-4ee1-8f59-afc3ab22bdc6.mp4
+
 </p>
 
 ## Getting Started
