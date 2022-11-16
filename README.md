@@ -1,6 +1,23 @@
 # music_app
 
-A new Flutter project.
+# Screenshots:
+
+<h3> 1- Home screen </h3>
+
+<p align="center">
+  <img src="Screenshots/1.jpg" width="300" hight=500  title="1- Home screen">
+</p>
+
+<h3> 2- Playlist screen </h3>
+
+<p align="center">
+  <img src="Screenshots/2.jpg" width="300" hight=500  title="2- Playlist screen">
+</p>
+<h3> 3- Song screen </h3>
+
+<p align="center">
+  <img src="Screenshots/3.jpg" width="300" hight=500  title="3- Song screen">
+</p>
 
 ## Getting Started
 
